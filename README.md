@@ -21,3 +21,10 @@ Poder avaliar e fazer anotações sobre filmes de forma a deixar organizado e bo
  
  ## 3. Requisitos não funcionais (RNF)
  **RNF01** -- O sistema deve salvar todos os filmes cadastrados E Mostrar eles em ordem de assistido por último, mas os filmes que foram favorito devem aparecer primeiro.
+
+ ![Sistema em visualização](visualizacao.png)
+ ![Sistema em visualização](tela_login.jpg)
+ ![Sistema em visualização](Cadastrar_Filme.jpg)
+ ![Sistema em visualização](Editar_Filme.jpg)
+ ![Sistema em visualização](Deletar_filme.jpg)
+ 
